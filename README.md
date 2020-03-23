@@ -2,7 +2,9 @@
 In this repository I will implement SR papers using tensorflow 2.0
 
 I have trained the SRCNN for 60000 epochs.
+
 You can find the trained models and training logs in this [link](https://drive.google.com/open?id=15BDCxku5RXoLUwUpvxT7f7do3lR453SG)
+
 you can donwload the 91 dataset as well as Set5 and set14 in this [link](https://drive.google.com/open?id=1KTRWi8aIBSip0Ir7XvWjNg9eumhQan_R)
 
 ![OUT](https://drive.google.com/uc?export=view&id=1e3_efmEkOldT26Iw2wHXo0Jfl6cRcRLm)
