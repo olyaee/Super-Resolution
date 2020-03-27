@@ -7,16 +7,13 @@ You can find the trained models and training logs in this [link](https://drive.g
 
 you can donwload the 91 dataset as well as Set5 and set14 in this [link](https://drive.google.com/open?id=1KTRWi8aIBSip0Ir7XvWjNg9eumhQan_R)
 
-![OUT](https://github.com/olyaee/Super-Resolution/blob/master/outputs/SRCNN/plot.jpg)
+*Train loss* | *Train psnr*
+:---: | :---: 
+<img src = 'outputs/SRCNN/train_loss.png'> | <img src = 'outputs/SRCNN/train_psnr.png'> 
 
-Train loss:
-![Train_loss](https://github.com/olyaee/Super-Resolution/blob/master/outputs/SRCNN/train_loss.png)
-Train psnr:
-![Train_psnr](https://github.com/olyaee/Super-Resolution/blob/master/outputs/SRCNN/train_psnr.png)
-Valid loss:
-![Valid_loss](https://github.com/olyaee/Super-Resolution/blob/master/outputs/SRCNN/valid_loss.png)
-Valid psnr:
-![Valid_psnr](https://github.com/olyaee/Super-Resolution/blob/master/outputs/SRCNN/valid_psnr.png)
 
+*Valid loss* | *Valid psnr*
+:---: | :---: 
+<img src = 'outputs/SRCNN/valid_loss.png'> | <img src = 'outputs/SRCNN/valid_psnr.png'> 
 
 
