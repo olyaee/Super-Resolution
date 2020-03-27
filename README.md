@@ -24,10 +24,12 @@ output:
 :---: | :---: 
 <img src = 'outputs/SRCNN/valid_loss.png'> | <img src = 'outputs/SRCNN/valid_psnr.png'> 
 
+
+
 ## VDSR
 You can find the trained models and training logs in this [link](https://drive.google.com/open?id=1VTLcCX9He7l3xnBzPjngMLjt3O39_QFm)
 
-*Ground truth* | *Low resolution x3* | *SRCNN output*
+*Ground truth* | *Low resolution x3* | *VDSR output*
 :---: | :---: | :---: 
 <img src = 'outputs/VDSR/hr_vdsr.png'> | <img src = 'outputs/VDSR/lr_vdsr.png'> | <img src = 'outputs/VDSR/sr_vdsr.png'> 
 
